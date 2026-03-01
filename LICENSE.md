@@ -1,4 +1,4 @@
-MITCITY SOFTWARE LICENSE AGREEMENT
+ITCITY SOFTWARE LICENSE AGREEMENT
 Inventory Management System
 Copyright (c) 2026 ITCity / Waes Ahmed
 All Rights Reserved.
