@@ -43,7 +43,7 @@ The Buyer is NOT allowed to:
 
 • Resell the modified or unmodified source code.
 • Redistribute the Software as a standalone product.
-• Sell it as a SaaS platform without extended license (if applicable).
+• Sell it as a SaaS platform without an extended license (if applicable).
 • Claim authorship of the original Software.
 • Remove copyright notices.
 
@@ -147,8 +147,8 @@ CONTACT INFORMATION
 Author: ITCity
 Developer: Waes Ahmed
 Email: waes.ahmed@gmail.com
-Phone: +880 1712 818 571
-Website: https://yourdomain.com
+Phone: +880 1717 540 036
+Website: https://itcity.ltd
 
 ------------------------------------------------------------
 END OF LICENSE
