@@ -1,3 +1,7 @@
+# project presentation video
+Link: https://drive.google.com/file/d/1ZfqsjOjRslwqJkfR69KKUoe1kdKsQe_N/view?usp=drive_link
+
+
 # Inventory Management System
 
 Professional Inventory & Stock Management Software
